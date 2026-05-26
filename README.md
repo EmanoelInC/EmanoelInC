@@ -1,6 +1,6 @@
 <div align="center">
 
-# Emanoel Cavalcante
+#Emanoel Cavalcante
 
 ### Analista de Dados · Business Intelligence · Inteligência Operacional
 
@@ -13,19 +13,15 @@
 
 ---
 
-| 🏆 100% SLA Contratual | 💰 R$0,00 em Avarias | 🛡️ 1.933 dias sem acidente | 📦 1.504.690 tons/mês |
-|:---:|:---:|:---:|:---:|
-| Jan–Mai 2025 | 5 meses consecutivos | com afastamento | expedidas em Mai/25 |
-
 </div>
 
 ---
 
 ## Sobre mim
 
-Profissional analítico com quase **6 anos de experiência** nas áreas de logística, operações e inteligência de mercado. Transformo dados em decisões — construindo dashboards, automatizando relatórios e gerando diagnósticos que impulsionam resultados reais.
+Profissional com quase 7 anos de experiência construída ao longo de três fases: operações logísticas de alta performance, gestão administrativa, mais recentemente, análise de negócios e inteligência de mercado. Transformando dados em decisões que geram resultado real.
 
-Atuei na **ID Logistics** por quase 5 anos (cross-docking, Ferrero, Danone) e, mais recentemente, como **Analista de Negócios e Inteligência de Mercado** na Santos & Abreu Gestão de Drogarias (jul/2025 – jun/2026), com foco em performance comercial de farmácias e redes associadas.
+Atuei na **ID Logistics** por quase 6 anos (Ferrero, Danone, Nutricia) e, mais recentemente, como **Analista de Negócios e Inteligência de Mercado** na Santos & Abreu Gestão de Drogarias (jul/2025 – jun/2026), com foco em performance comercial de farmácias e redes associadas.
 
 > *"Minha missão é construir soluções que não apenas relatam o passado, mas antecipam o futuro do negócio."*
 
@@ -40,7 +36,7 @@ Atuei na **ID Logistics** por quase 5 anos (cross-docking, Ferrero, Danone) e, m
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 **Setor Farmacêutico**  
-`B2Farma` · `PEC Febrafar` · `Bússola IQVIA / Close Up` · `Orion` · `System Analyst`
+`B2Farma(PGFarma)` · `PEC Febrafar` · `Bússola IQVIA / Close Up` · `Orion` · `System Analyst`
 
 **Logística**  
 `TMWS` · `Workfront` · `Sitrad` · `Cross-Docking` · `WMS`

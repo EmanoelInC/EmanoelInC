@@ -92,7 +92,7 @@ Análise diária de devolução vs. SLA no CDDNPA — picos identificados e rast
 
 ## 🎓 Formação & Certificações
 
-- 🎓 **Gestão de Tecnologia da Informação** — Universidade Veiga de Almeida (2025)
+- 🎓 **Gestão de Tecnologia da Informação** — Universidade Veiga de Almeida 
 - 📊 **Power BI** (5 módulos) — Fundação Bradesco (2025)
 - 💊 **PEC Febrafar** (7 módulos) — Febrafar (2025)
 - 💰 **PAI — Ferramenta Financeira** (3 módulos) — Febrafar (2026)

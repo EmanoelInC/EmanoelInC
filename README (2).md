@@ -1,6 +1,6 @@
 <div align="center">
 
-# Emanoel Cavalcante
+# Ema Cavalcante
 
 ### Analista de Dados · Business Intelligence · Inteligência Operacional
 

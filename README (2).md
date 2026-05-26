@@ -19,9 +19,9 @@
 
 ## Sobre mim
 
-Profissional com quase 7 anos de experiência construída ao longo de três fases: operações logísticas de alta performance, gestão administrativa, mais recentemente, análise de negócios e inteligência de mercado. Transformo dados em decisões que geram resultado real.
+Profissional com quase 7 anos de experiência construída ao longo de três fases: operações logísticas de alta performance, gestão administrativa, mais recentemente, análise de negócios e inteligência de mercado. Transformando dados em decisões que geram resultado real.
 
-Atuei na **ID Logistics** por quase 6 anos (cross-docking, Ferrero, Danone) e, mais recentemente, como **Analista de Negócios e Inteligência de Mercado** na Santos & Abreu Gestão de Drogarias, com foco em performance comercial de farmácias e redes associadas.
+Atuei na **ID Logistics** por quase 6 anos (Ferrero, Danone, Nutricia) e, mais recentemente, como **Analista de Negócios e Inteligência de Mercado** na Santos & Abreu Gestão de Drogarias, com foco em performance comercial de farmácias e redes associadas.
 
 > *"Qualidade de serviço não é um relatório no final do mês. É a decisão certa tomada antes do problema virar crise.."*
 

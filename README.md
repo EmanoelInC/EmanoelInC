@@ -23,7 +23,7 @@ Profissional com quase 7 anos de experiência construída ao longo de três fase
 
 Atuei na **ID Logistics** por quase 6 anos (Ferrero, Danone, Nutricia) e, mais recentemente, como **Analista de Negócios e Inteligência de Mercado** na Santos & Abreu Gestão de Drogarias (jul/2025 – jun/2026), com foco em performance comercial de farmácias e redes associadas.
 
-> *"Minha missão é construir soluções que não apenas relatam o passado, mas antecipam o futuro do negócio."*
+> *"Qualidade de serviço não é um relatório no final do mês. É a decisão certa tomada antes do problema virar crise."*
 
 ---
 

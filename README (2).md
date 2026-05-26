@@ -13,10 +13,6 @@
 
 ---
 
-| 🏆 100% SLA Contratual | 💰 R$0,00 em Avarias | 🛡️ 1.933 dias sem acidente | 📦 1.504.690 tons/mês |
-|:---:|:---:|:---:|:---:|
-| Jan–Mai 2025 | 5 meses consecutivos | com afastamento | expedidas em Mai/25 |
-
 </div>
 
 ---
